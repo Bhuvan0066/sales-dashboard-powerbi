@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Ship_Date,Month,Quarter,Year,Region,City,Segment,Category,Sub_Category,Product,Quantity,Sales,Discount,Profit
+ORD-2001,2023-02-18,2023-02-22,February,Q1,2023,South,South City 6,Home Office,Technology,Phones,iPhone 14,3,161397,0.15,32821
+ORD-2002,2023-07-06,2023-07-07,July,Q3,2023,West,West City 6,Consumer,Furniture,Bookcases,3-Shelf Bookcase,13,185302,0.05,22125
+ORD-2003,2022-07-03,2022-07-10,July,Q3,2022,East,East City 4,Consumer,Office Supplies,Binders,Ring Binder,8,2592,0.1,577
+ORD-2004,2022-07-28,2022-07-31,July,Q3,2022,North,North City 4,Corporate,Office Supplies,Paper,Carbon Paper,1,1034,0.05,299
+ORD-2005,2023-09-02,2023-09-04,September,Q3,2023,South,South City 6,Consumer,Technology,Phones,iPhone 14,8,390536,0,140985
+ORD-2006,2022-03-30,2022-04-01,March,Q1,2022,East,East City 4,Home Office,Technology,Laptops,Lenovo ThinkPad,3,114903,0,31269
+ORD-2007,2022-09-21,2022-09-26,September,Q3,2022,West,West City 4,Consumer,Furniture,Bookcases,Mini Bookcase,15,94350,0.05,23520
+ORD-2008,2022-05-08,2022-05-09,May,Q2,2022,North,North City 2,Consumer,Furniture,Chairs,Mesh Chair,7,61607,0.1,17253
+ORD-2009,2022-09-21,2022-09-22,September,Q3,2022,East,East City 4,Consumer,Office Supplies,Paper,Glossy Paper,1,345,0.1,45
+ORD-2010,2022-12-11,2022-12-18,December,Q4,2022,West,West City 2,Corporate,Furniture,Tables,Corner Desk,2,6462,0.15,1710
+ORD-2011,2022-11-15,2022-11-22,November,Q4,2022,South,South City 6,Home Office,Office Supplies,Pens,Ball Pen Pack,14,20090,0.05,5901
+ORD-2012,2023-11-22,2023-11-28,November,Q4,2023,South,South City 6,Corporate,Furniture,Tables,Standing Desk,15,236970,0,54727
+ORD-2013,2022-11-25,2022-12-02,November,Q4,2022,West,West City 4,Home Office,Technology,Laptops,Asus VivoBook,15,345945,0.2,35377
+ORD-2014,2023-11-26,2023-12-02,November,Q4,2023,West,West City 2,Consumer,Furniture,Tables,Conference Table,6,143148,0.1,47590
+ORD-2015,2023-11-12,2023-11-18,November,Q4,2023,South,South City 3,Home Office,Furniture,Bookcases,Mini Bookcase,12,301704,0.15,86718
+ORD-2016,2023-11-04,2023-11-08,November,Q4,2023,North,North City 4,Consumer,Office Supplies,Binders,Spiral Binder,1,2903,0.05,644
+ORD-2017,2022-07-30,2022-08-02,July,Q3,2022,West,West City 1,Corporate,Office Supplies,Binders,File Folder,4,2320,0.1,214
+ORD-2018,2022-03-01,2022-03-05,March,Q1,2022,East,East City 3,Corporate,Office Supplies,Binders,File Folder,4,7064,0.15,1902
+ORD-2019,2023-04-17,2023-04-20,April,Q2,2023,South,South City 3,Consumer,Furniture,Bookcases,Mini Bookcase,7,178010,0.1,24840
+ORD-2020,2023-04-20,2023-04-25,April,Q2,2023,West,West City 5,Consumer,Furniture,Bookcases,Mini Bookcase,11,48939,0.05,17628
+ORD-2021,2022-01-16,2022-01-17,January,Q1,2022,East,East City 4,Corporate,Technology,Laptops,Dell Inspiron,10,486050,0,123886
+ORD-2022,2022-09-25,2022-09-27,September,Q3,2022,South,South City 2,Home Office,Technology,Laptops,Dell Inspiron,1,26438,0.2,6486
+ORD-2023,2023-03-26,2023-03-27,March,Q1,2023,West,West City 2,Consumer,Technology,Phones,Vivo V25,3,65634,0.1,5978
+ORD-2024,2023-07-27,2023-07-29,July,Q3,2023,East,East City 1,Home Office,Office Supplies,Paper,A4 Paper 500,12,8520,0.05,1972
+ORD-2025,2023-06-10,2023-06-16,June,Q2,2023,West,West City 1,Consumer,Furniture,Bookcases,3-Shelf Bookcase,10,269210,0.05,46553
+ORD-2026,2022-12-17,2022-12-24,December,Q4,2022,West,West City 6,Consumer,Furniture,Chairs,Office Chair Pro,3,69198,0,10333
+ORD-2027,2022-04-10,2022-04-17,April,Q2,2022,South,South City 3,Home Office,Furniture,Bookcases,5-Shelf Bookcase,15,109335,0.15,17837
+ORD-2028,2023-08-27,2023-08-28,August,Q3,2023,West,West City 4,Consumer,Furniture,Chairs,Mesh Chair,1,28531,0.1,4289
+ORD-2029,2023-03-14,2023-03-21,March,Q1,2023,North,North City 1,Consumer,Furniture,Chairs,Study Chair,11,327140,0.1,94701
+ORD-2030,2023-01-21,2023-01-28,January,Q1,2023,East,East City 6,Home Office,Technology,Accessories,Mouse,12,578352,0.15,101137
+ORD-2031,2022-08-22,2022-08-24,August,Q3,2022,West,West City 1,Consumer,Technology,Phones,OnePlus 11,3,177849,0.15,12290
+ORD-2032,2022-07-26,2022-07-28,July,Q3,2022,South,South City 6,Home Office,Furniture,Chairs,Executive Chair,3,81123,0.05,6240
+ORD-2033,2022-02-06,2022-02-11,February,Q1,2022,West,West City 1,Corporate,Technology,Phones,Realme 10,4,105472,0.15,31833
+ORD-2034,2023-01-14,2023-01-19,January,Q1,2023,South,South City 2,Consumer,Office Supplies,Binders,Document Sleeve,4,7748,0.2,871
+ORD-2035,2022-05-18,2022-05-22,May,Q2,2022,South,South City 2,Consumer,Office Supplies,Pens,Gel Pen Set,11,24376,0.2,2012
+ORD-2036,2023-06-22,2023-06-24,June,Q2,2023,West,West City 1,Corporate,Office Supplies,Binders,Ring Binder,4,9848,0.1,2027
+ORD-2037,2023-10-05,2023-10-06,October,Q4,2023,North,North City 6,Corporate,Technology,Laptops,HP Pavilion,15,109110,0.05,16633
+ORD-2038,2022-09-19,2022-09-20,September,Q3,2022,East,East City 2,Consumer,Office Supplies,Pens,Ball Pen Pack,3,2196,0.1,473
+ORD-2039,2023-04-09,2023-04-10,April,Q2,2023,North,North City 4,Corporate,Technology,Phones,Realme 10,2,117420,0.1,38299
+ORD-2040,2022-09-08,2022-09-13,September,Q3,2022,South,South City 1,Consumer,Technology,Phones,iPhone 14,4,74224,0.1,20586
+ORD-2041,2023-10-23,2023-10-24,October,Q4,2023,West,West City 4,Consumer,Office Supplies,Pens,Ball Pen Pack,12,19968,0.15,3515
+ORD-2042,2023-07-27,2023-08-02,July,Q3,2023,East,East City 3,Corporate,Office Supplies,Pens,Ball Pen Pack,5,2065,0,301
+ORD-2043,2023-09-28,2023-09-29,September,Q3,2023,East,East City 6,Corporate,Office Supplies,Binders,Spiral Binder,4,7884,0.2,536
+ORD-2044,2022-09-26,2022-09-27,September,Q3,2022,West,West City 3,Consumer,Office Supplies,Paper,Glossy Paper,8,15664,0.15,4237
+ORD-2045,2023-06-06,2023-06-08,June,Q2,2023,North,North City 1,Corporate,Furniture,Chairs,Office Chair Pro,10,168690,0.1,57515
+ORD-2046,2023-12-15,2023-12-16,December,Q4,2023,North,North City 1,Home Office,Technology,Accessories,Mouse,14,432194,0.2,87691
+ORD-2047,2022-05-05,2022-05-12,May,Q2,2022,East,East City 6,Consumer,Technology,Accessories,USB Hub,1,32161,0.05,10124
+ORD-2048,2022-10-21,2022-10-23,October,Q4,2022,West,West City 3,Consumer,Furniture,Chairs,Gaming Chair,7,36085,0.1,11840
+ORD-2049,2022-09-14,2022-09-21,September,Q3,2022,South,South City 2,Corporate,Office Supplies,Paper,A4 Paper 500,12,5232,0.1,1046
+ORD-2050,2022-10-25,2022-10-30,October,Q4,2022,West,West City 2,Consumer,Office Supplies,Pens,Highlighter Pack,5,13740,0.05,2843
+ORD-2051,2022-07-14,2022-07-17,July,Q3,2022,South,South City 2,Home Office,Technology,Accessories,Keyboard,10,378190,0.2,63689
+ORD-2052,2023-08-10,2023-08-11,August,Q3,2023,East,East City 1,Home Office,Office Supplies,Pens,Ball Pen Pack,1,1893,0.15,180
+ORD-2053,2022-07-19,2022-07-26,July,Q3,2022,North,North City 6,Consumer,Furniture,Chairs,Office Chair Pro,3,31344,0.05,9763
+ORD-2054,2023-10-19,2023-10-21,October,Q4,2023,North,North City 4,Home Office,Technology,Laptops,Dell Inspiron,14,256018,0.1,53268
+ORD-2055,2023-10-27,2023-10-30,October,Q4,2023,West,West City 2,Home Office,Office Supplies,Pens,Gel Pen Set,6,8886,0.2,2580
+ORD-2056,2022-08-02,2022-08-09,August,Q3,2022,West,West City 1,Home Office,Furniture,Chairs,Study Chair,6,46728,0.2,6431
+ORD-2057,2023-09-13,2023-09-18,September,Q3,2023,East,East City 3,Consumer,Technology,Laptops,Dell Inspiron,2,77982,0.2,10473
+ORD-2058,2022-06-27,2022-07-02,June,Q2,2022,East,East City 1,Home Office,Office Supplies,Paper,Glossy Paper,1,1885,0.05,485
+ORD-2059,2022-06-29,2022-07-05,June,Q2,2022,North,North City 2,Corporate,Furniture,Tables,Corner Desk,9,127890,0.15,17142
+ORD-2060,2022-12-27,2022-12-29,December,Q4,2022,North,North City 5,Corporate,Office Supplies,Paper,A4 Paper 500,6,15480,0.05,3795
+ORD-2061,2023-11-12,2023-11-15,November,Q4,2023,East,East City 3,Corporate,Technology,Phones,iPhone 14,5,249875,0.2,46448
+ORD-2062,2022-05-26,2022-05-28,May,Q2,2022,West,West City 3,Home Office,Office Supplies,Paper,Glossy Paper,5,8610,0,2852
+ORD-2063,2022-01-31,2022-02-04,January,Q1,2022,South,South City 1,Corporate,Office Supplies,Paper,Carbon Paper,15,33420,0,3946
+ORD-2064,2022-12-30,2023-01-04,December,Q4,2022,South,South City 6,Home Office,Furniture,Bookcases,5-Shelf Bookcase,2,58276,0,12547
+ORD-2065,2023-06-22,2023-06-29,June,Q2,2023,West,West City 6,Corporate,Office Supplies,Binders,Ring Binder,4,10544,0.05,1269
+ORD-2066,2023-03-18,2023-03-20,March,Q1,2023,South,South City 1,Home Office,Furniture,Tables,Corner Desk,1,29259,0.1,2553
+ORD-2067,2023-12-05,2023-12-07,December,Q4,2023,West,West City 5,Corporate,Furniture,Chairs,Executive Chair,10,248560,0,78605
+ORD-2068,2023-01-17,2023-01-22,January,Q1,2023,South,South City 4,Home Office,Furniture,Bookcases,Wall Bookcase,3,30975,0,6094
+ORD-2069,2022-09-24,2022-09-29,September,Q3,2022,East,East City 6,Corporate,Technology,Accessories,Mouse,13,77831,0.05,9750
+ORD-2070,2023-12-31,2024-01-07,December,Q4,2023,North,North City 3,Consumer,Office Supplies,Paper,Glossy Paper,5,8090,0.15,883
+ORD-2071,2023-01-19,2023-01-26,January,Q1,2023,South,South City 2,Consumer,Technology,Accessories,Webcam,8,177552,0.1,47852
+ORD-2072,2022-12-02,2022-12-07,December,Q4,2022,South,South City 1,Home Office,Office Supplies,Paper,Carbon Paper,9,7002,0.15,855
+ORD-2073,2023-12-06,2023-12-10,December,Q4,2023,East,East City 2,Corporate,Office Supplies,Pens,Marker Set,4,2064,0.05,730
+ORD-2074,2023-01-31,2023-02-02,January,Q1,2023,South,South City 4,Home Office,Furniture,Chairs,Executive Chair,2,7900,0,2126
+ORD-2075,2022-08-09,2022-08-15,August,Q3,2022,East,East City 6,Corporate,Furniture,Bookcases,5-Shelf Bookcase,3,60672,0.15,13354
+ORD-2076,2023-03-21,2023-03-24,March,Q1,2023,East,East City 4,Home Office,Technology,Accessories,Mouse,8,330160,0.05,114960
+ORD-2077,2023-04-21,2023-04-23,April,Q2,2023,West,West City 6,Home Office,Office Supplies,Pens,Marker Set,9,18450,0,4154
+ORD-2078,2023-04-11,2023-04-13,April,Q2,2023,North,North City 1,Corporate,Furniture,Chairs,Gaming Chair,7,204001,0.05,22853
+ORD-2079,2023-07-15,2023-07-19,July,Q3,2023,North,North City 1,Consumer,Technology,Accessories,Mouse,3,55389,0,10179
+ORD-2080,2022-02-14,2022-02-21,February,Q1,2022,South,South City 4,Consumer,Technology,Phones,Realme 10,4,71928,0.05,14923
+ORD-2081,2022-12-27,2023-01-03,December,Q4,2022,East,East City 1,Corporate,Furniture,Chairs,Executive Chair,1,16806,0.05,4064
+ORD-2082,2022-08-07,2022-08-14,August,Q3,2022,West,West City 4,Corporate,Furniture,Tables,Conference Table,12,209136,0.1,59510
+ORD-2083,2023-10-26,2023-10-30,October,Q4,2023,North,North City 6,Corporate,Technology,Laptops,Acer Aspire,10,99100,0,36232
+ORD-2084,2023-01-18,2023-01-24,January,Q1,2023,North,North City 3,Consumer,Furniture,Tables,Study Table,10,240890,0.1,77034
+ORD-2085,2023-02-04,2023-02-06,February,Q1,2023,South,South City 1,Home Office,Furniture,Bookcases,5-Shelf Bookcase,2,35574,0,10112
+ORD-2086,2022-12-19,2022-12-23,December,Q4,2022,East,East City 6,Consumer,Technology,Phones,iPhone 14,9,184149,0.15,20406
+ORD-2087,2022-01-08,2022-01-15,January,Q1,2022,East,East City 5,Corporate,Technology,Laptops,Lenovo ThinkPad,8,417440,0.05,136175
+ORD-2088,2023-11-18,2023-11-19,November,Q4,2023,North,North City 5,Consumer,Technology,Laptops,Lenovo ThinkPad,8,108000,0.1,26757
+ORD-2089,2022-09-23,2022-09-25,September,Q3,2022,East,East City 2,Consumer,Technology,Phones,OnePlus 11,7,79835,0,25720
+ORD-2090,2022-01-02,2022-01-08,January,Q1,2022,South,South City 5,Corporate,Furniture,Tables,Study Table,3,88392,0.05,30139
+ORD-2091,2023-04-10,2023-04-13,April,Q2,2023,West,West City 6,Consumer,Furniture,Chairs,Executive Chair,9,228825,0.1,76502
+ORD-2092,2022-07-30,2022-07-31,July,Q3,2022,North,North City 1,Consumer,Technology,Phones,OnePlus 11,14,834400,0,88549
+ORD-2093,2022-09-12,2022-09-13,September,Q3,2022,North,North City 4,Consumer,Technology,Phones,Samsung Galaxy,12,259668,0.1,30904
+ORD-2094,2023-09-06,2023-09-07,September,Q3,2023,West,West City 6,Consumer,Furniture,Chairs,Study Chair,8,35968,0.05,9796
+ORD-2095,2022-11-11,2022-11-16,November,Q4,2022,North,North City 1,Home Office,Technology,Accessories,Mouse,1,37765,0.05,9460
+ORD-2096,2022-10-04,2022-10-11,October,Q4,2022,West,West City 2,Home Office,Technology,Phones,Samsung Galaxy,3,106464,0.05,14213
+ORD-2097,2023-10-04,2023-10-08,October,Q4,2023,North,North City 4,Home Office,Furniture,Chairs,Mesh Chair,4,75836,0,21468
+ORD-2098,2023-11-26,2023-12-01,November,Q4,2023,West,West City 4,Home Office,Furniture,Bookcases,Wall Bookcase,9,56304,0.15,11543
+ORD-2099,2022-09-08,2022-09-15,September,Q3,2022,North,North City 4,Consumer,Technology,Accessories,USB Hub,3,130410,0.05,29366
+ORD-2100,2023-11-07,2023-11-10,November,Q4,2023,North,North City 5,Corporate,Furniture,Chairs,Executive Chair,15,55680,0.2,6207
+ORD-2101,2022-09-16,2022-09-19,September,Q3,2022,South,South City 2,Consumer,Office Supplies,Pens,Marker Set,10,8390,0.1,1448
+ORD-2102,2022-08-03,2022-08-09,August,Q3,2022,East,East City 3,Corporate,Technology,Accessories,Headset,10,106590,0.2,10024
+ORD-2103,2023-10-26,2023-10-29,October,Q4,2023,West,West City 3,Consumer,Technology,Accessories,Keyboard,13,76895,0.1,5902
+ORD-2104,2022-01-15,2022-01-22,January,Q1,2022,West,West City 5,Consumer,Office Supplies,Binders,File Folder,9,15687,0.2,4189
+ORD-2105,2022-07-06,2022-07-11,July,Q3,2022,East,East City 5,Consumer,Technology,Phones,Realme 10,2,71156,0.15,10373
+ORD-2106,2023-02-13,2023-02-20,February,Q1,2023,West,West City 1,Consumer,Office Supplies,Paper,Carbon Paper,10,16600,0.05,2893
+ORD-2107,2023-12-08,2023-12-14,December,Q4,2023,North,North City 1,Home Office,Technology,Phones,iPhone 14,12,271692,0.05,64492
+ORD-2108,2022-11-13,2022-11-15,November,Q4,2022,West,West City 5,Home Office,Furniture,Tables,Standing Desk,3,63972,0,12440
+ORD-2109,2023-03-24,2023-03-30,March,Q1,2023,South,South City 2,Consumer,Office Supplies,Pens,Marker Set,13,5590,0.1,1587
+ORD-2110,2022-08-26,2022-09-02,August,Q3,2022,North,North City 5,Consumer,Furniture,Chairs,Study Chair,5,42635,0.1,9823
+ORD-2111,2023-09-11,2023-09-14,September,Q3,2023,South,South City 6,Corporate,Technology,Accessories,Mouse,3,92223,0.1,28607
+ORD-2112,2023-01-24,2023-01-27,January,Q1,2023,North,North City 4,Home Office,Office Supplies,Paper,A3 Paper 250,8,18696,0,3976
+ORD-2113,2023-06-29,2023-06-30,June,Q2,2023,South,South City 6,Consumer,Furniture,Bookcases,Mini Bookcase,8,65160,0,10064
+ORD-2114,2023-02-02,2023-02-04,February,Q1,2023,South,South City 5,Home Office,Technology,Laptops,Asus VivoBook,11,649011,0.1,168834
+ORD-2115,2023-08-10,2023-08-16,August,Q3,2023,West,West City 5,Consumer,Technology,Laptops,Acer Aspire,7,398342,0,138935
+ORD-2116,2022-11-25,2022-11-27,November,Q4,2022,East,East City 6,Corporate,Technology,Phones,Vivo V25,5,170675,0.15,51844
+ORD-2117,2022-06-11,2022-06-12,June,Q2,2022,North,North City 6,Home Office,Office Supplies,Paper,Glossy Paper,9,18423,0,6188
+ORD-2118,2022-02-16,2022-02-20,February,Q1,2022,South,South City 5,Consumer,Furniture,Bookcases,Mini Bookcase,6,49980,0.1,11314
+ORD-2119,2023-08-17,2023-08-22,August,Q3,2023,West,West City 4,Consumer,Technology,Accessories,USB Hub,8,309912,0.05,86756
+ORD-2120,2022-12-05,2022-12-06,December,Q4,2022,West,West City 2,Home Office,Technology,Laptops,Acer Aspire,15,783960,0,239417
+ORD-2121,2023-02-06,2023-02-08,February,Q1,2023,South,South City 4,Corporate,Office Supplies,Paper,A3 Paper 250,1,1572,0.15,431
+ORD-2122,2023-03-30,2023-04-04,March,Q1,2023,East,East City 1,Consumer,Office Supplies,Pens,Ball Pen Pack,11,30734,0.05,5126
+ORD-2123,2023-12-07,2023-12-09,December,Q4,2023,West,West City 6,Home Office,Technology,Laptops,Acer Aspire,7,387002,0.1,118777
+ORD-2124,2022-03-10,2022-03-13,March,Q1,2022,South,South City 3,Home Office,Technology,Phones,Samsung Galaxy,9,243711,0.1,62801
+ORD-2125,2022-09-21,2022-09-23,September,Q3,2022,North,North City 3,Consumer,Office Supplies,Paper,Glossy Paper,2,5334,0.15,1072
+ORD-2126,2023-06-01,2023-06-02,June,Q2,2023,West,West City 3,Consumer,Technology,Accessories,Mouse,14,387492,0.1,129542
+ORD-2127,2023-03-17,2023-03-18,March,Q1,2023,South,South City 4,Home Office,Furniture,Bookcases,3-Shelf Bookcase,6,151770,0.2,19526
+ORD-2128,2023-10-07,2023-10-08,October,Q4,2023,North,North City 5,Consumer,Office Supplies,Paper,A4 Paper 500,15,33675,0.15,6802
+ORD-2129,2023-10-15,2023-10-21,October,Q4,2023,West,West City 1,Home Office,Furniture,Chairs,Mesh Chair,8,104288,0.15,30155
+ORD-2130,2023-08-27,2023-08-28,August,Q3,2023,East,East City 3,Corporate,Furniture,Chairs,Executive Chair,5,24845,0.2,1898
+ORD-2131,2023-08-09,2023-08-12,August,Q3,2023,South,South City 1,Consumer,Technology,Accessories,Webcam,3,53229,0,15852
+ORD-2132,2022-11-29,2022-11-30,November,Q4,2022,West,West City 5,Corporate,Furniture,Bookcases,Wall Bookcase,4,37312,0.05,10726
+ORD-2133,2022-10-08,2022-10-14,October,Q4,2022,South,South City 6,Consumer,Furniture,Chairs,Office Chair Pro,12,53580,0.2,4048
+ORD-2134,2023-02-12,2023-02-14,February,Q1,2023,South,South City 2,Home Office,Office Supplies,Paper,A3 Paper 250,6,10920,0.05,1626
+ORD-2135,2023-04-04,2023-04-07,April,Q2,2023,West,West City 4,Corporate,Furniture,Tables,Foldable Table,14,304136,0.2,35523
+ORD-2136,2023-12-17,2023-12-23,December,Q4,2023,South,South City 3,Corporate,Technology,Accessories,Headset,7,332458,0.2,44766
+ORD-2137,2023-01-02,2023-01-04,January,Q1,2023,East,East City 4,Consumer,Furniture,Chairs,Executive Chair,1,16029,0.2,1770
+ORD-2138,2022-05-06,2022-05-10,May,Q2,2022,South,South City 5,Corporate,Technology,Laptops,Acer Aspire,8,153392,0.2,27991
+ORD-2139,2023-12-03,2023-12-10,December,Q4,2023,South,South City 3,Consumer,Technology,Phones,OnePlus 11,8,305912,0.1,41967
+ORD-2140,2023-12-21,2023-12-24,December,Q4,2023,West,West City 5,Consumer,Technology,Phones,Vivo V25,3,52089,0,6443
+ORD-2141,2023-06-04,2023-06-06,June,Q2,2023,East,East City 3,Consumer,Furniture,Chairs,Office Chair Pro,6,64170,0,8872
+ORD-2142,2023-10-14,2023-10-17,October,Q4,2023,West,West City 1,Home Office,Technology,Laptops,Lenovo ThinkPad,7,151718,0.2,24397
+ORD-2143,2022-12-10,2022-12-15,December,Q4,2022,North,North City 4,Corporate,Office Supplies,Paper,Glossy Paper,3,5772,0.15,905
+ORD-2144,2022-07-09,2022-07-13,July,Q3,2022,West,West City 1,Corporate,Furniture,Tables,Corner Desk,13,106184,0.15,14279
+ORD-2145,2023-08-21,2023-08-27,August,Q3,2023,South,South City 1,Corporate,Furniture,Chairs,Gaming Chair,9,52587,0.2,15006
+ORD-2146,2022-01-01,2022-01-02,January,Q1,2022,North,North City 2,Consumer,Furniture,Tables,Study Table,10,235660,0,56861
+ORD-2147,2023-03-27,2023-04-03,March,Q1,2023,North,North City 1,Corporate,Furniture,Chairs,Mesh Chair,11,305987,0,104990
+ORD-2148,2022-03-18,2022-03-19,March,Q1,2022,West,West City 6,Consumer,Technology,Laptops,Acer Aspire,2,50308,0.05,13020
+ORD-2149,2023-06-08,2023-06-14,June,Q2,2023,East,East City 5,Home Office,Technology,Accessories,Keyboard,12,61272,0.05,10915
+ORD-2150,2023-12-08,2023-12-09,December,Q4,2023,West,West City 2,Corporate,Office Supplies,Binders,Spiral Binder,8,2960,0.15,405
+ORD-2151,2022-03-20,2022-03-27,March,Q1,2022,West,West City 6,Corporate,Technology,Accessories,Keyboard,14,355152,0.1,49382
+ORD-2152,2023-02-03,2023-02-10,February,Q1,2023,North,North City 1,Consumer,Office Supplies,Binders,Ring Binder,14,20118,0.2,4144
+ORD-2153,2022-06-06,2022-06-09,June,Q2,2022,East,East City 2,Corporate,Technology,Laptops,Dell Inspiron,2,25764,0.15,6394
+ORD-2154,2023-12-01,2023-12-06,December,Q4,2023,South,South City 1,Corporate,Furniture,Bookcases,5-Shelf Bookcase,3,21183,0.1,5564
+ORD-2155,2023-02-08,2023-02-13,February,Q1,2023,South,South City 5,Home Office,Furniture,Tables,Foldable Table,4,25508,0.15,5165
+ORD-2156,2023-08-09,2023-08-15,August,Q3,2023,North,North City 5,Consumer,Furniture,Tables,Standing Desk,2,18932,0.05,4680
+ORD-2157,2023-09-17,2023-09-21,September,Q3,2023,West,West City 1,Consumer,Office Supplies,Binders,File Folder,4,1268,0,350
+ORD-2158,2023-06-04,2023-06-07,June,Q2,2023,North,North City 6,Corporate,Office Supplies,Paper,Glossy Paper,7,7245,0,2259
+ORD-2159,2022-07-07,2022-07-11,July,Q3,2022,North,North City 2,Home Office,Technology,Laptops,Lenovo ThinkPad,4,184384,0.2,30253
+ORD-2160,2023-12-07,2023-12-09,December,Q4,2023,South,South City 6,Consumer,Office Supplies,Pens,Highlighter Pack,11,13167,0,3362
+ORD-2161,2022-09-26,2022-10-02,September,Q3,2022,North,North City 5,Home Office,Office Supplies,Paper,Carbon Paper,4,1948,0.15,554
+ORD-2162,2023-04-21,2023-04-23,April,Q2,2023,North,North City 3,Consumer,Office Supplies,Binders,Document Sleeve,15,25305,0.05,5998
+ORD-2163,2023-04-11,2023-04-12,April,Q2,2023,North,North City 4,Consumer,Furniture,Tables,Standing Desk,12,199728,0.05,56701
+ORD-2164,2022-09-13,2022-09-17,September,Q3,2022,West,West City 6,Corporate,Technology,Laptops,Acer Aspire,2,25392,0.2,2484
+ORD-2165,2022-11-23,2022-11-28,November,Q4,2022,East,East City 5,Consumer,Furniture,Chairs,Mesh Chair,9,88740,0,14247
+ORD-2166,2023-11-10,2023-11-14,November,Q4,2023,South,South City 1,Corporate,Office Supplies,Pens,Gel Pen Set,5,14290,0.1,3980
+ORD-2167,2022-04-12,2022-04-14,April,Q2,2022,West,West City 3,Corporate,Office Supplies,Binders,File Folder,1,1728,0.15,129
+ORD-2168,2023-12-25,2023-12-26,December,Q4,2023,West,West City 4,Corporate,Technology,Laptops,Asus VivoBook,6,29772,0.1,7125
+ORD-2169,2023-02-05,2023-02-07,February,Q1,2023,South,South City 3,Corporate,Office Supplies,Pens,Ball Pen Pack,6,11652,0.05,2673
+ORD-2170,2023-01-09,2023-01-13,January,Q1,2023,South,South City 2,Home Office,Technology,Phones,Samsung Galaxy,15,710985,0.1,211537
+ORD-2171,2023-02-18,2023-02-19,February,Q1,2023,East,East City 3,Consumer,Furniture,Tables,Standing Desk,1,10600,0.1,3559
+ORD-2172,2023-04-11,2023-04-12,April,Q2,2023,West,West City 4,Home Office,Office Supplies,Pens,Gel Pen Set,7,4809,0,1618
+ORD-2173,2022-06-17,2022-06-18,June,Q2,2022,South,South City 1,Consumer,Furniture,Chairs,Study Chair,3,73536,0.2,6354
+ORD-2174,2022-11-18,2022-11-21,November,Q4,2022,South,South City 5,Home Office,Technology,Laptops,HP Pavilion,13,671229,0.1,129988
+ORD-2175,2022-02-01,2022-02-03,February,Q1,2022,North,North City 1,Home Office,Technology,Phones,OnePlus 11,14,687260,0.05,70441
+ORD-2176,2023-07-03,2023-07-04,July,Q3,2023,East,East City 4,Corporate,Technology,Laptops,Dell Inspiron,5,51260,0.15,4839
+ORD-2177,2022-08-31,2022-09-07,August,Q3,2022,South,South City 6,Corporate,Technology,Phones,Realme 10,15,70470,0.05,25226
+ORD-2178,2023-10-13,2023-10-17,October,Q4,2023,West,West City 2,Home Office,Office Supplies,Paper,A4 Paper 500,10,24340,0.05,8033
+ORD-2179,2022-12-20,2022-12-24,December,Q4,2022,West,West City 2,Home Office,Office Supplies,Paper,A4 Paper 500,1,520,0.1,153
+ORD-2180,2023-06-20,2023-06-23,June,Q2,2023,East,East City 6,Corporate,Office Supplies,Binders,Ring Binder,3,8454,0.05,2070
+ORD-2181,2022-12-19,2022-12-21,December,Q4,2022,North,North City 3,Home Office,Technology,Laptops,Asus VivoBook,5,185475,0.1,38128
+ORD-2182,2023-03-03,2023-03-07,March,Q1,2023,East,East City 3,Home Office,Furniture,Bookcases,3-Shelf Bookcase,15,154785,0.15,12434
+ORD-2183,2023-02-16,2023-02-23,February,Q1,2023,West,West City 3,Consumer,Technology,Laptops,HP Pavilion,7,282100,0.15,55887
+ORD-2184,2023-01-11,2023-01-15,January,Q1,2023,West,West City 5,Corporate,Office Supplies,Pens,Gel Pen Set,4,9380,0.15,1948
+ORD-2185,2023-06-19,2023-06-25,June,Q2,2023,South,South City 4,Corporate,Technology,Phones,Realme 10,8,187640,0,38113
+ORD-2186,2023-10-26,2023-11-02,October,Q4,2023,West,West City 2,Home Office,Office Supplies,Binders,Document Sleeve,2,2520,0,650
+ORD-2187,2022-12-01,2022-12-04,December,Q4,2022,East,East City 3,Consumer,Technology,Accessories,Mouse,12,162096,0.2,44205
+ORD-2188,2022-11-24,2022-11-28,November,Q4,2022,South,South City 4,Home Office,Technology,Phones,Vivo V25,13,727194,0.1,78567
+ORD-2189,2022-12-05,2022-12-07,December,Q4,2022,North,North City 1,Corporate,Furniture,Chairs,Office Chair Pro,5,96315,0.2,14702
+ORD-2190,2023-05-26,2023-06-02,May,Q2,2023,South,South City 2,Home Office,Technology,Phones,Vivo V25,7,402507,0,91917
+ORD-2191,2023-04-23,2023-04-28,April,Q2,2023,East,East City 5,Home Office,Furniture,Bookcases,Mini Bookcase,7,111587,0,13814
+ORD-2192,2023-08-05,2023-08-12,August,Q3,2023,North,North City 5,Consumer,Office Supplies,Binders,Spiral Binder,6,16998,0.05,2710
+ORD-2193,2023-05-10,2023-05-14,May,Q2,2023,East,East City 1,Consumer,Furniture,Chairs,Office Chair Pro,7,38129,0.05,7101
+ORD-2194,2022-07-31,2022-08-04,July,Q3,2022,West,West City 5,Home Office,Office Supplies,Pens,Ball Pen Pack,9,4743,0.05,573
+ORD-2195,2023-09-01,2023-09-03,September,Q3,2023,South,South City 2,Corporate,Office Supplies,Pens,Marker Set,1,1244,0.1,242
+ORD-2196,2023-10-31,2023-11-04,October,Q4,2023,South,South City 1,Home Office,Technology,Laptops,Acer Aspire,7,376712,0.15,86201
+ORD-2197,2023-11-29,2023-12-01,November,Q4,2023,South,South City 2,Corporate,Furniture,Bookcases,Wall Bookcase,9,200682,0,45801
+ORD-2198,2022-01-30,2022-02-04,January,Q1,2022,South,South City 1,Consumer,Technology,Phones,Samsung Galaxy,8,474888,0.2,81278
+ORD-2199,2022-03-06,2022-03-07,March,Q1,2022,North,North City 3,Consumer,Furniture,Bookcases,Wall Bookcase,5,136870,0.1,24289
+ORD-2200,2023-11-22,2023-11-27,November,Q4,2023,West,West City 1,Corporate,Furniture,Chairs,Office Chair Pro,1,11317,0.15,2423
+ORD-2201,2023-12-24,2023-12-28,December,Q4,2023,South,South City 3,Consumer,Office Supplies,Paper,A4 Paper 500,4,9308,0,2319
+ORD-2202,2023-01-02,2023-01-05,January,Q1,2023,West,West City 5,Consumer,Office Supplies,Paper,A4 Paper 500,3,4947,0,1590
+ORD-2203,2023-01-22,2023-01-28,January,Q1,2023,East,East City 1,Home Office,Office Supplies,Binders,File Folder,6,15684,0.05,3205
+ORD-2204,2023-02-13,2023-02-16,February,Q1,2023,South,South City 5,Consumer,Office Supplies,Binders,Spiral Binder,14,3248,0.15,267
+ORD-2205,2022-03-23,2022-03-26,March,Q1,2022,West,West City 4,Corporate,Office Supplies,Paper,A3 Paper 250,11,5962,0,1730
+ORD-2206,2023-09-12,2023-09-19,September,Q3,2023,East,East City 4,Consumer,Furniture,Chairs,Office Chair Pro,9,217062,0.1,57303
+ORD-2207,2022-06-14,2022-06-19,June,Q2,2022,South,South City 1,Home Office,Furniture,Bookcases,5-Shelf Bookcase,12,306444,0.05,99844
+ORD-2208,2022-02-11,2022-02-18,February,Q1,2022,East,East City 4,Corporate,Technology,Laptops,Dell Inspiron,4,45976,0.1,15576
+ORD-2209,2022-06-25,2022-06-26,June,Q2,2022,North,North City 5,Consumer,Office Supplies,Binders,Ring Binder,8,3320,0.1,954
+ORD-2210,2022-01-12,2022-01-16,January,Q1,2022,North,North City 6,Home Office,Office Supplies,Pens,Gel Pen Set,5,2670,0,935
+ORD-2211,2023-10-16,2023-10-21,October,Q4,2023,South,South City 6,Consumer,Furniture,Tables,Foldable Table,4,114216,0.05,38349
+ORD-2212,2023-04-10,2023-04-12,April,Q2,2023,North,North City 3,Corporate,Office Supplies,Binders,Ring Binder,11,15059,0.05,3807
+ORD-2213,2023-08-08,2023-08-10,August,Q3,2023,North,North City 1,Corporate,Office Supplies,Pens,Gel Pen Set,11,11220,0.1,1178
+ORD-2214,2022-08-30,2022-09-03,August,Q3,2022,West,West City 5,Home Office,Technology,Phones,Samsung Galaxy,12,650388,0.1,163552
+ORD-2215,2022-03-08,2022-03-11,March,Q1,2022,East,East City 2,Consumer,Technology,Phones,Realme 10,10,543930,0.05,159693
+ORD-2216,2023-03-28,2023-03-30,March,Q1,2023,East,East City 6,Consumer,Office Supplies,Pens,Gel Pen Set,14,5054,0.1,1261
+ORD-2217,2023-03-04,2023-03-11,March,Q1,2023,East,East City 3,Home Office,Technology,Laptops,Dell Inspiron,8,101432,0.05,10139
+ORD-2218,2023-03-28,2023-04-04,March,Q1,2023,West,West City 2,Corporate,Technology,Phones,Vivo V25,13,161330,0.1,35002
+ORD-2219,2022-09-12,2022-09-16,September,Q3,2022,West,West City 6,Home Office,Technology,Phones,Samsung Galaxy,10,166290,0,62354
+ORD-2220,2022-03-06,2022-03-08,March,Q1,2022,West,West City 5,Home Office,Furniture,Chairs,Study Chair,2,50812,0,12162
+ORD-2221,2022-11-02,2022-11-09,November,Q4,2022,West,West City 5,Consumer,Office Supplies,Binders,File Folder,9,2205,0.1,536
+ORD-2222,2023-10-22,2023-10-26,October,Q4,2023,East,East City 6,Home Office,Office Supplies,Pens,Marker Set,2,452,0.2,53
+ORD-2223,2023-09-22,2023-09-29,September,Q3,2023,East,East City 4,Consumer,Technology,Phones,Realme 10,12,351648,0.2,73838
+ORD-2224,2022-06-13,2022-06-14,June,Q2,2022,East,East City 2,Corporate,Office Supplies,Binders,Document Sleeve,15,3330,0.15,490
+ORD-2225,2022-08-31,2022-09-07,August,Q3,2022,North,North City 2,Corporate,Furniture,Chairs,Office Chair Pro,1,29406,0.2,3760
+ORD-2226,2022-09-28,2022-10-03,September,Q3,2022,West,West City 5,Consumer,Furniture,Bookcases,3-Shelf Bookcase,4,83380,0.2,11723
+ORD-2227,2023-09-14,2023-09-18,September,Q3,2023,West,West City 6,Corporate,Office Supplies,Paper,Carbon Paper,15,26655,0,2485
+ORD-2228,2023-07-01,2023-07-02,July,Q3,2023,North,North City 1,Home Office,Furniture,Bookcases,3-Shelf Bookcase,11,167024,0,39265
+ORD-2229,2022-09-17,2022-09-19,September,Q3,2022,South,South City 4,Consumer,Furniture,Chairs,Executive Chair,7,136416,0.1,23133
+ORD-2230,2023-06-20,2023-06-23,June,Q2,2023,East,East City 1,Consumer,Furniture,Tables,Foldable Table,7,90398,0.05,29151
+ORD-2231,2023-01-30,2023-02-02,January,Q1,2023,East,East City 3,Consumer,Office Supplies,Pens,Highlighter Pack,6,8070,0.1,1851
+ORD-2232,2022-08-24,2022-08-30,August,Q3,2022,East,East City 4,Consumer,Technology,Phones,iPhone 14,4,219996,0.15,37888
+ORD-2233,2023-03-20,2023-03-24,March,Q1,2023,West,West City 1,Corporate,Furniture,Chairs,Study Chair,15,264780,0.05,73187
+ORD-2234,2023-09-21,2023-09-28,September,Q3,2023,West,West City 5,Consumer,Technology,Accessories,Headset,2,87658,0.2,21785
+ORD-2235,2022-11-04,2022-11-10,November,Q4,2022,East,East City 5,Corporate,Office Supplies,Paper,A4 Paper 500,15,21870,0.2,5238
+ORD-2236,2022-07-27,2022-08-03,July,Q3,2022,West,West City 6,Corporate,Technology,Accessories,Mouse,6,190812,0.2,15594
+ORD-2237,2022-04-23,2022-04-29,April,Q2,2022,West,West City 6,Consumer,Office Supplies,Pens,Marker Set,5,2960,0,538
+ORD-2238,2023-07-14,2023-07-15,July,Q3,2023,South,South City 5,Home Office,Furniture,Chairs,Gaming Chair,12,181476,0.15,38471
+ORD-2239,2023-02-23,2023-02-28,February,Q1,2023,North,North City 4,Consumer,Office Supplies,Binders,Document Sleeve,4,11532,0,2519
+ORD-2240,2022-02-22,2022-02-24,February,Q1,2022,East,East City 6,Home Office,Technology,Laptops,Acer Aspire,3,99093,0.05,23146
+ORD-2241,2023-05-23,2023-05-29,May,Q2,2023,East,East City 5,Consumer,Technology,Phones,iPhone 14,2,22164,0.1,5211
+ORD-2242,2022-06-04,2022-06-07,June,Q2,2022,North,North City 3,Consumer,Office Supplies,Binders,Spiral Binder,9,13653,0.05,1566
+ORD-2243,2023-11-22,2023-11-27,November,Q4,2023,East,East City 3,Corporate,Technology,Laptops,Lenovo ThinkPad,1,37403,0.15,9218
+ORD-2244,2022-01-20,2022-01-23,January,Q1,2022,North,North City 1,Home Office,Furniture,Chairs,Executive Chair,12,81516,0.1,6335
+ORD-2245,2023-01-29,2023-02-05,January,Q1,2023,South,South City 3,Consumer,Office Supplies,Binders,Ring Binder,4,5364,0.1,660
+ORD-2246,2022-11-23,2022-11-24,November,Q4,2022,East,East City 5,Consumer,Technology,Accessories,Headset,9,237915,0.05,64706
+ORD-2247,2023-05-10,2023-05-14,May,Q2,2023,East,East City 4,Consumer,Office Supplies,Binders,Spiral Binder,10,8460,0.2,1996
+ORD-2248,2023-08-06,2023-08-09,August,Q3,2023,East,East City 5,Corporate,Office Supplies,Binders,Spiral Binder,13,36166,0.2,5496
+ORD-2249,2022-03-31,2022-04-01,March,Q1,2022,North,North City 6,Corporate,Office Supplies,Binders,Spiral Binder,10,8550,0,1387
+ORD-2250,2023-02-25,2023-03-04,February,Q1,2023,West,West City 3,Consumer,Furniture,Bookcases,Wall Bookcase,7,166838,0.15,33771
+ORD-2251,2022-11-19,2022-11-23,November,Q4,2022,South,South City 6,Home Office,Furniture,Chairs,Office Chair Pro,10,31130,0.15,3241
+ORD-2252,2023-12-25,2023-12-30,December,Q4,2023,East,East City 3,Home Office,Technology,Phones,iPhone 14,12,239040,0.2,70915
+ORD-2253,2023-03-27,2023-03-30,March,Q1,2023,West,West City 2,Home Office,Technology,Laptops,Acer Aspire,7,371294,0.15,104095
+ORD-2254,2023-06-29,2023-07-05,June,Q2,2023,West,West City 2,Consumer,Office Supplies,Pens,Ball Pen Pack,3,5763,0.1,498
+ORD-2255,2023-11-02,2023-11-05,November,Q4,2023,West,West City 2,Consumer,Office Supplies,Binders,Document Sleeve,12,21960,0,2004
+ORD-2256,2023-10-14,2023-10-16,October,Q4,2023,West,West City 1,Corporate,Office Supplies,Binders,Document Sleeve,8,9616,0.15,706
+ORD-2257,2023-04-03,2023-04-09,April,Q2,2023,West,West City 1,Consumer,Office Supplies,Paper,Glossy Paper,10,14930,0.2,4148
+ORD-2258,2022-08-09,2022-08-13,August,Q3,2022,West,West City 1,Consumer,Technology,Accessories,Keyboard,14,192122,0.05,69237
+ORD-2259,2022-05-20,2022-05-24,May,Q2,2022,East,East City 1,Home Office,Furniture,Bookcases,5-Shelf Bookcase,5,23950,0.2,5132
+ORD-2260,2022-04-29,2022-04-30,April,Q2,2022,South,South City 4,Consumer,Office Supplies,Binders,File Folder,7,7903,0,1360
+ORD-2261,2023-06-18,2023-06-22,June,Q2,2023,North,North City 5,Consumer,Office Supplies,Paper,Glossy Paper,14,17094,0.1,3942
+ORD-2262,2023-10-22,2023-10-27,October,Q4,2023,North,North City 3,Corporate,Furniture,Tables,Standing Desk,6,174174,0.15,40114
+ORD-2263,2022-10-22,2022-10-29,October,Q4,2022,East,East City 1,Consumer,Technology,Accessories,Headset,5,194575,0.1,40252
+ORD-2264,2022-04-19,2022-04-23,April,Q2,2022,South,South City 5,Home Office,Technology,Laptops,HP Pavilion,11,584936,0.2,54895
+ORD-2265,2022-09-04,2022-09-10,September,Q3,2022,North,North City 1,Corporate,Furniture,Bookcases,Mini Bookcase,11,293678,0.15,47755
+ORD-2266,2023-06-11,2023-06-17,June,Q2,2023,West,West City 4,Home Office,Technology,Accessories,Webcam,3,108864,0.2,10620
+ORD-2267,2022-02-26,2022-03-03,February,Q1,2022,East,East City 1,Consumer,Furniture,Tables,Corner Desk,2,30110,0.2,5988
+ORD-2268,2023-08-19,2023-08-24,August,Q3,2023,South,South City 6,Corporate,Furniture,Chairs,Mesh Chair,3,77145,0.05,12744
+ORD-2269,2022-10-05,2022-10-08,October,Q4,2022,South,South City 3,Home Office,Furniture,Bookcases,Wall Bookcase,14,178976,0.05,33935
+ORD-2270,2022-04-06,2022-04-11,April,Q2,2022,North,North City 3,Consumer,Technology,Accessories,Webcam,1,24774,0.2,5851
+ORD-2271,2022-11-13,2022-11-16,November,Q4,2022,West,West City 3,Consumer,Furniture,Chairs,Mesh Chair,2,15284,0.1,3661
+ORD-2272,2023-08-03,2023-08-07,August,Q3,2023,South,South City 5,Corporate,Furniture,Bookcases,Wall Bookcase,6,84666,0.05,21525
+ORD-2273,2023-03-10,2023-03-13,March,Q1,2023,East,East City 2,Corporate,Technology,Laptops,Asus VivoBook,4,128232,0.1,28732
+ORD-2274,2023-03-11,2023-03-14,March,Q1,2023,East,East City 1,Consumer,Furniture,Chairs,Study Chair,4,69540,0.2,11646
+ORD-2275,2023-06-19,2023-06-23,June,Q2,2023,South,South City 5,Corporate,Technology,Laptops,Asus VivoBook,3,38784,0.05,11022
+ORD-2276,2022-01-11,2022-01-15,January,Q1,2022,North,North City 6,Consumer,Technology,Laptops,Asus VivoBook,9,436059,0.15,61048
+ORD-2277,2022-08-09,2022-08-15,August,Q3,2022,West,West City 6,Home Office,Furniture,Chairs,Gaming Chair,12,294804,0.15,69430
+ORD-2278,2023-06-27,2023-07-02,June,Q2,2023,West,West City 3,Home Office,Furniture,Chairs,Gaming Chair,1,10582,0.05,823
+ORD-2279,2022-08-27,2022-08-29,August,Q3,2022,West,West City 2,Consumer,Office Supplies,Binders,Ring Binder,8,5128,0.2,1275
+ORD-2280,2023-06-02,2023-06-08,June,Q2,2023,East,East City 5,Home Office,Furniture,Chairs,Executive Chair,3,86880,0,11427
+ORD-2281,2023-07-13,2023-07-16,July,Q3,2023,West,West City 5,Home Office,Office Supplies,Pens,Marker Set,1,2546,0.05,477
+ORD-2282,2022-04-03,2022-04-04,April,Q2,2022,South,South City 3,Home Office,Office Supplies,Binders,Spiral Binder,9,26001,0.05,3639
+ORD-2283,2022-01-02,2022-01-07,January,Q1,2022,East,East City 2,Corporate,Furniture,Tables,Conference Table,13,327587,0.05,54739
+ORD-2284,2022-08-01,2022-08-02,August,Q3,2022,East,East City 4,Home Office,Furniture,Chairs,Study Chair,6,171624,0.05,57422
+ORD-2285,2023-04-23,2023-04-26,April,Q2,2023,East,East City 4,Corporate,Technology,Accessories,Keyboard,2,118656,0.05,34606
+ORD-2286,2023-04-09,2023-04-13,April,Q2,2023,West,West City 1,Consumer,Office Supplies,Pens,Gel Pen Set,9,16776,0.05,1559
+ORD-2287,2022-08-14,2022-08-19,August,Q3,2022,West,West City 6,Corporate,Furniture,Chairs,Study Chair,2,41890,0.2,10783
+ORD-2288,2023-10-23,2023-10-29,October,Q4,2023,South,South City 5,Corporate,Technology,Phones,Realme 10,14,424858,0.05,111894
+ORD-2289,2022-06-25,2022-06-28,June,Q2,2022,East,East City 5,Corporate,Office Supplies,Paper,A4 Paper 500,10,27210,0.2,4912
+ORD-2290,2022-12-24,2022-12-31,December,Q4,2022,East,East City 4,Home Office,Technology,Accessories,Webcam,14,760606,0,260725
+ORD-2291,2023-12-27,2023-12-30,December,Q4,2023,North,North City 5,Corporate,Office Supplies,Binders,Spiral Binder,12,11640,0.2,2937
+ORD-2292,2023-04-30,2023-05-02,April,Q2,2023,West,West City 4,Consumer,Furniture,Tables,Study Table,6,110100,0.05,10650
+ORD-2293,2023-07-12,2023-07-13,July,Q3,2023,North,North City 1,Home Office,Office Supplies,Paper,Glossy Paper,7,7420,0.05,677
+ORD-2294,2023-05-01,2023-05-02,May,Q2,2023,North,North City 3,Consumer,Technology,Accessories,USB Hub,4,126476,0.1,39166
+ORD-2295,2022-08-04,2022-08-07,August,Q3,2022,East,East City 6,Home Office,Office Supplies,Paper,Glossy Paper,7,2114,0,729
+ORD-2296,2022-07-26,2022-08-01,July,Q3,2022,South,South City 6,Consumer,Technology,Laptops,Acer Aspire,6,230940,0.2,27266
+ORD-2297,2023-04-29,2023-05-02,April,Q2,2023,South,South City 4,Corporate,Office Supplies,Paper,Carbon Paper,14,10724,0,3904
+ORD-2298,2023-12-22,2023-12-28,December,Q4,2023,North,North City 5,Home Office,Furniture,Chairs,Executive Chair,5,146965,0.2,13156
+ORD-2299,2022-01-09,2022-01-16,January,Q1,2022,East,East City 2,Corporate,Furniture,Chairs,Office Chair Pro,2,49754,0.15,7331
+ORD-2300,2023-02-06,2023-02-13,February,Q1,2023,North,North City 5,Consumer,Furniture,Bookcases,3-Shelf Bookcase,11,293898,0,28544
